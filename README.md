@@ -13,9 +13,9 @@ without SD cards or battery swaps.
 **Things I talk about:** Zephyr · low-power design · RF · edge AI · CE/FCC certification · AI-assisted firmware
 
 **Start here**
-- 🐿️ [squirrel desk notifier](REPO_LINK): ESP32-S3 air-quality display, firmware + PCB + case built with AI, reviewed by a human
+- 🐿️ [desk_notifier](https://github.com/tobiwan88/desk_notifier): ESP32-S3 air-quality display, firmware + PCB + case built with AI, reviewed by a human
 - 🌦️ [weather-station](https://github.com/tobiwan88/weather-station): multi-node Zephyr + zbus + LVGL + LoRa
-- 🐳 [zephyr_docker](https://github.com/tobiwan88/zephyr_docker): reproducible Zephyr build environment
-- 🎤 [Getting started on low power optimization with Zephyr](SLIDES_LINK): Zephyr meetup Munich, 2025
+- 🐳 [zephyr_docker](https://github.com/tobiwan88/zephyr_docker): simple Docker container for Zephyr projects
+- 🎤 [Getting started on low power optimization with Zephyr](https://www.zephyrproject.org/wp-content/uploads/2025/12/Zephyr-Meetup-Munich-Low-Power.pdf): Zephyr meetup Munich, 2025
 
 [trmk.de](https://trmk.de) · [LinkedIn](LINKEDIN_LINK) · [X @trmkmeyer](https://x.com/trmkmeyer) · Munich
